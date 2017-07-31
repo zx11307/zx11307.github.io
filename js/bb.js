@@ -1,6 +1,6 @@
 try{
    var b=getRandom(4);
-		$("#mh",parent.document.body).attr("src","http://51dict.com/js/a"+b+".html") 
+		$("#mh",parent.document.body).attr("src","/bg"+b+".html") 
     
 }catch(e){}
 
